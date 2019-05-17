@@ -36,7 +36,7 @@ class Country extends \yii\db\ActiveRecord
     }
 
     /**
-     * {@inheritdoc}
+     * {@inheritdoc} 汉化
      */
     public function attributeLabels()
     {
